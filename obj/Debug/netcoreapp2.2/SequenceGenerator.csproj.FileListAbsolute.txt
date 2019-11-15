@@ -1,0 +1,11 @@
+D:\Projects\Experiment\SequenceGenerator\bin\Debug\netcoreapp2.2\SequenceGenerator.deps.json
+D:\Projects\Experiment\SequenceGenerator\bin\Debug\netcoreapp2.2\SequenceGenerator.runtimeconfig.json
+D:\Projects\Experiment\SequenceGenerator\bin\Debug\netcoreapp2.2\SequenceGenerator.runtimeconfig.dev.json
+D:\Projects\Experiment\SequenceGenerator\bin\Debug\netcoreapp2.2\SequenceGenerator.dll
+D:\Projects\Experiment\SequenceGenerator\bin\Debug\netcoreapp2.2\SequenceGenerator.pdb
+D:\Projects\Experiment\SequenceGenerator\obj\Debug\netcoreapp2.2\SequenceGenerator.csproj.CoreCompileInputs.cache
+D:\Projects\Experiment\SequenceGenerator\obj\Debug\netcoreapp2.2\SequenceGenerator.AssemblyInfoInputs.cache
+D:\Projects\Experiment\SequenceGenerator\obj\Debug\netcoreapp2.2\SequenceGenerator.AssemblyInfo.cs
+D:\Projects\Experiment\SequenceGenerator\obj\Debug\netcoreapp2.2\SequenceGenerator.dll
+D:\Projects\Experiment\SequenceGenerator\obj\Debug\netcoreapp2.2\SequenceGenerator.pdb
+D:\Projects\Experiment\SequenceGenerator\obj\Debug\netcoreapp2.2\SequenceGenerator.csprojAssemblyReference.cache
